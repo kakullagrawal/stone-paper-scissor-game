@@ -1,4 +1,4 @@
-ock Paper Scissors Game ✂️📄🪨
+Rock Paper Scissors Game ✂️📄🪨
 
 This is a beginner-friendly Python implementation of the classic Rock, Paper, Scissors game. The player chooses Rock, Paper, or Scissors, while the computer randomly selects its move. The program then determines the winner based on the game rules.
 
